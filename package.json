@@ -1,0 +1,22 @@
+{
+  "name": "angular_productivity",
+  "version": "1.0.0",
+  "description": "A Intuitive ToDo App built with Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShlomoLove/Angular_Productivity.git"
+  },
+  "author": "Scott Nassau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShlomoLove/Angular_Productivity/issues"
+  },
+  "homepage": "https://github.com/ShlomoLove/Angular_Productivity#readme",
+  "dependencies": {
+    "@angular/cli": "^8.1.0"
+  }
+}
